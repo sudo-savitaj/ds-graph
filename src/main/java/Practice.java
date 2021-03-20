@@ -4,5 +4,8 @@ public class Practice {
 //        new DFS().display();
 //        new MinimumSpanningTree();
 //        new UnitAreaOfLargestRegion().display();
+//        new SteppingNumbers().display();
+//        new WordSearch().display();
+//        new FindWhetherPathExists().display();
     }
 }
